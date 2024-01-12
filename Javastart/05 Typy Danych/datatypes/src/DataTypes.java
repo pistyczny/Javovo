@@ -17,7 +17,7 @@ public class DataTypes {
         System.out.println('b' + 'a');
         System.out.println(true);
         System.out.println(false);
-        System.out.println("witaj swiecie");
+        System.out.println("witaj swiecie:)");
         System.out.println(456);
         System.out.println("tak");
 
