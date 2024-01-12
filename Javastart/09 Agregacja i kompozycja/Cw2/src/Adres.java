@@ -1,3 +1,4 @@
+//. 
 public class Adres {
     Uzytkownik wlasciciel;
     String miasto;
