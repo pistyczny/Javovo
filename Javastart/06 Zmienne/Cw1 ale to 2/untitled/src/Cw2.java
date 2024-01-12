@@ -10,7 +10,7 @@ class Cw2 {
 
         var voterTurnout = 58.0;
         voterTurnout = 61.1;
-        System.out.print("Procentowa frekwencja podczas ostatnich wyborów wyniosła: ");
+        System.out.print("Procentowa frekwencja podczas ostatnich wyborów wyniosłaa :  ");
         System.out.println(voterTurnout);
     }
 }
