@@ -1,6 +1,6 @@
 public class Variables {
     public static void main(String[] args) {
-        String firstName = "Jan";
+        String firstName = "Jan  ";
         var lastName = "Kowalski";
         int age = 25;
         double height = 180;
