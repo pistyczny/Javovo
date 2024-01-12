@@ -1,0 +1,155 @@
+<mxfile host="app.diagrams.net" modified="2024-01-12T16:55:49.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hPXgcxd1X5Ek32Dn_QAE" version="22.1.18" type="device">
+  <diagram name="Strona-1" id="hhOwolBBgLAQbMcLT-_w">
+    <mxGraphModel dx="1176" dy="601" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="h7ceOKPvgB9_I9Rythfp-1" value="" style="shape=stencil(fZbdcgIhDIWfZm8zQAg/17Z9j85U606tdqz9e/tmZ0c0uJ47xP0I5JwEBl59bp8/1kNwn6fj4W39M76ctgM/DCGM++36OJ50NPDjwKvN4bh+PR6+9i/z74/n6ctp9H74nlb4nbmSKZeJCu5vngmZ6jzzNAO7cX8FVKEsBuBKrgKg9oAE8gkCbLeUhEoEQKSUDZDLeWYRKIl8MEDRmHwfyBrBG6Amyu4+kDxxMoB3jhwgYu7TVAsVkFcWCs4CTBEoF4RctKeOxHIf8IXYpikHikAIf+MNUW94AGSSaoAoFIE3AlOyeWU+p2E5S9yfQZcQILVuQOwZdJNoS9Ls3wA5u2XZTIHECqeJ9kDpSaauRiNVcAY1QhdBzeLBli5WazpkSsBLV25uRaqWRyFawTQzRRIQYirJzq5atkBqLfouwqUxLBepthWb10vrWZY6UOAeyKCCtDV625mm9gmUC4Wc3VLJMMIE1BsA2FW9JraVlQB7n3c9oMKhCLEvIM1zBPZ25/umNQ1tVEC2G+fFCC8g398O2hNQuQlVu752DBfA+q0ptnqO5JFmeuIuo9DY7KjY71UxdJV4EntifPWorW++R/dC4t7V3DlIB5cHx2bc7eb3yvX//QNFp+bHDT/+Aw==);lineShape=1;strokeColor=default;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="271.20130434833504" y="176.5419994702379" width="4.672539772115556" height="4.665236216357698" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-1" target="pb1_79WbQpZrnifNUim9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="388" y="155" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-10" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-3" target="pb1_79WbQpZrnifNUim9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-3" value="Naszykuj kubek" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="388" y="296" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-16" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-4" target="pb1_79WbQpZrnifNUim9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-4" value="Naszykuj czajnik" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="388" y="848" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-12" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-5" target="pb1_79WbQpZrnifNUim9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-5" value="Naszykuj herbate" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="388" y="411" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-13" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-6" target="pb1_79WbQpZrnifNUim9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-6" value="Naszykuj dodatki (cytryna,cukier)" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="388" y="563" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-14" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-7" target="pb1_79WbQpZrnifNUim9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-7" value="Naszykuj wode" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="388" y="728" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-18" value="False" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-15" target="pb1_79WbQpZrnifNUim9-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-15" target="pb1_79WbQpZrnifNUim9-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-24" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="pb1_79WbQpZrnifNUim9-22">
+          <mxGeometry x="-0.3619" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-15" value="Czy w kubku jest herbata" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="373" y="980" width="110" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-17" value="Dodaj herbate" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="222" y="1011.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-38" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-21" target="pb1_79WbQpZrnifNUim9-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-39" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="pb1_79WbQpZrnifNUim9-38">
+          <mxGeometry x="-0.0873" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-21" value="Czy w czajniku jest woda" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="338.5" y="1193" width="179" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-23" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pb1_79WbQpZrnifNUim9-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="263" y="1094" as="sourcePoint" />
+            <mxPoint x="267" y="1241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-25" value="Dodaj wode do czajnika" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="614" y="1193" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-21" target="pb1_79WbQpZrnifNUim9-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639" y="1162" as="sourcePoint" />
+            <mxPoint x="689" y="1112" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-36" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="pb1_79WbQpZrnifNUim9-35">
+          <mxGeometry x="-0.2504" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-46" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-37" target="pb1_79WbQpZrnifNUim9-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-37" value="Przegotuj wode do 90 stopni" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="388" y="1357" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-42" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-25" target="pb1_79WbQpZrnifNUim9-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="843" y="1399" as="sourcePoint" />
+            <mxPoint x="539" y="1408" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="656" y="1412" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-50" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-45" target="pb1_79WbQpZrnifNUim9-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-45" value="Wrzatkiem zalej wczesniej przygotowana herbate w kubku i odczekaj 10 minut" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="353" y="1488" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-53" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-49" target="pb1_79WbQpZrnifNUim9-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-54" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="pb1_79WbQpZrnifNUim9-53">
+          <mxGeometry x="-0.1081" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-56" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-49" target="pb1_79WbQpZrnifNUim9-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-57" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="pb1_79WbQpZrnifNUim9-56">
+          <mxGeometry x="0.1078" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-49" value="Czy chcesz dodatki do herbaty?" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="313.5" y="1723" width="229" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-58" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-51" target="pb1_79WbQpZrnifNUim9-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-51" value="" style="swimlane;startSize=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="666" y="1724" width="200" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-60" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="pb1_79WbQpZrnifNUim9-52" target="pb1_79WbQpZrnifNUim9-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-52" value="Mozesz pic herbatke" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="388" y="1938" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-55" value="Dodaj cytryne lub cukier" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="664" y="1779" width="189" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="pb1_79WbQpZrnifNUim9-59" value="Stop" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="368" y="2108" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
