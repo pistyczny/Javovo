@@ -1,3 +1,4 @@
+// .
 class Adres {
     String miasto;
     String ulica;
