@@ -1,0 +1,85 @@
+Programowanie to próba zapisania sekwencji operacji w sformalizowany sposób.
+Programowanie to próba zapisania algorytmu w sformalizowany sposób.
+Programowanie to próba zapisania algorytmu w kodzie źródłowym.
+
+	OD KIEDY ”PROGRAMUJEMY”?
+
+∙ 1 stycznia 1970 0:00 UTC
+∙ 1936 – Alan Turing przedstawia założenia swojej maszyny
+∙ 1822 – Charles Babbage stworzył pierwszą maszynę liczącą
+∙ 263 – rozwiązywanie równań liniowych (Gaussian elimination)
+∙ 1700 - 2000 p.n.e – mnożenie dwóch liczb (Egipt)
+∙ przed piśmiennictwem – przepisy kucharskie, rytuały religijne itp
+
+	PROCES POWSTAWANIA APLIKACJI
+
+
+	SKŁADNIA JĘZYKA I DOKUMENTACJA
+
+∙ specyfikacja języka Java
+∙ Notepad++
+∙ IntelliJ
+∙ narzędzia deweloperske (SDK)
+∙ dokumentacja (API)
+	
+	PIERWSZY PROGRAM
+
+public class Main {
+	public static void main (String[]args){
+		System.out.println(”Hello PPJ”);
+	}	
+}
+c:\Program File\Java\jdk\bin\javac.exe Main.java
+c:\Program File\Java\jdk\bin\java.exe Main
+
+	ZAPISY LITERAŁÓW
+
+W języku Java przez literał rozumiany jest reprezentowana w kodzie źródłowym wartość:
+∙ typu prostego (primitive type),
+∙ typu złożonego String,
+∙ lub typu null.
+
+Literały stanu logicznego:
+∙ true
+∙ false
+
+Literały liczb całkowitych w zapisie:
+∙ dzisiętnym
+∙ szesnatkowym
+∙ osemkowym
+∙ binarnym
+
+Literały liczb całkowitych w zapisie dzisiętnym:
+∙ ciąg cyfr rozpoczynający się wartością inną niż 0
+∙ opcjonalnie występująca końcówka l L
+
+Literały liczb całkowitych w zapisie osemkowym:
+∙ ciąg cyfr rozpoczynający się wartością 0
+∙ opcjonalnie występująca końcówka l L
+
+Literały liczb całkowitych w zapisie szesnatkowym:
+∙ ciąg cyfr rozpoczynający się wartością 0x
+∙ opcjonalnie występująca końcówka l L
+
+Literały liczb całkowitych w zapisie binarnym:
+∙ ciąg cyfr rozpoczynający się wartością 0b
+∙ opcjonalnie występująca końcówka l L
+
+Literał znakowy:
+∙ pojedynczy znak objęty apostrofem np: 'a ', 'A' lub '0'
+∙ objęty apostrofem znak ukośnik (backslash) i następujący po nim znak specjalny lub
+kod znaku np: '\t', '\177'
+∙ objęty apostrofem znak ukośnik (backslash), następujący po niem znak u i kod znaku
+reprezentowany w UTF-16 np: '\u03a9', '\uFFFF'
+
+Literał liczb zmiennoprzecinkowych:
+∙ 2.f .3f
+∙ 3.14 1e-9d 1e127
+
+		DZIĘKUJE
+
+
+
+
+
+
