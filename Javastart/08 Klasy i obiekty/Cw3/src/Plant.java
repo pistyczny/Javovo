@@ -1,3 +1,4 @@
+// .
 public class Plant {
     String nazwa;
     String opis;
