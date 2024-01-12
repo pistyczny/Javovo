@@ -1,4 +1,0 @@
-class Cwiczenie01 {
-	
-	
-	}
