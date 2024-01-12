@@ -9,7 +9,7 @@
 //
 //        Możesz również dodać dowolne zmienne, które samodzielnie uznasz za stosowne. Do reprezentacji każdego z powyższych elementów wykorzystaj najbardziej odpowiedni Twoim zdaniem typ danych.
 //        Na końcu wyświetl informacje o samochodzie, które przypisałeś do zmiennych.
-//
+/////////
 // ///////////////
 //        Podpowiedź
 //        Do marki i modelu użyj zmiennych typu String, do rocznika zmiennej typu int, a do ceny typu double. Przypisz do zmiennych wartości, a następnie odwołaj się do nich w metodach print() lub println().
