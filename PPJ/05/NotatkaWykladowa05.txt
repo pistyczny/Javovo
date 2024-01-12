@@ -1,0 +1,129 @@
+		INSTRUKCJE ZANIECHANIA I KONTYNUACJI
+
+We wnętrzu pętli mogą być użyte instrukcje
+	break;
+oraz
+	continue;
+Wykonanie instrukcji zaniechania (break) powoduje zakończenie wykonania pętli,
+natomiast wykonanie instrukcji kontynuowania (continiue) powoduje potraktowanie
+jeszcze nie wykonanych instrukcji bieżącego obrotu pętli jak instrukcji pustej.
+
+
+
+		INSTRUKCJE ITERACYJNE
+
+
+Instrukcje iteracyjne umożliwiają cykliczne wykonywanie objętych nimi instrukcji.
+Instrukcja iteracyjna powinna gwarantować zakończenie jej wykonania.
+
+Instrukcja while ma postać
+	while (expC) Ins
+w której
+	∙ expC jest wyrażeniem orzecznikowym,
+	∙ a Ins jest instrukcją.
+
+
+Instrukcja do ma postać
+	do
+		Ins
+	while (expC);
+w której
+∙ expC jest wyrażeniem orzecznikowym,
+∙ a Ins jest instrukcją.
+
+
+Instrukcja for ma postać
+	for ( ini0; expC; expI) Ins
+w której
+	∙ ini0 jest delaracją,
+	∙ expC jest wyrażeniem orzecznikowym,
+	∙ expI jest wyrażeniem,
+	∙ Ins jest instrukcją
+
+Instrukcja for może mieć postać
+	for ( ini0 : col) Ins
+w której
+∙ ini0 jest delaracją,
+∙ col jest tablicą lub kolekcją,
+∙ Ins jest instrukcją
+Należy zaznaczyć że instrukcja for-each przegląda elementy tablicy lub kolekcji, a nie
+indeksy.
+
+
+
+			ZMIENNE ODNOŚNIKOWE
+
+int = 10
+double = 3.14
+String = addr -------------> hello
+
+
+
+			DZIĘKUJE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
