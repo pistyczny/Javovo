@@ -1,3 +1,4 @@
+// .
 class Cw2 {
     public static void main(String[] args) {
         double netto = 100;
