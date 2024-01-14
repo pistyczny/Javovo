@@ -1,0 +1,99 @@
+		METODY
+Metodą jest wyodrębniony i nazwany opis czynności definiowany w ciele klasy.
+Deklaracja metody składa się z nagłówka opisującego jej zewnętrzne właściwości oraz
+ciała wyszczególniającego czynności.
+
+Nagłówek metody opisuje:
+∙ kto może z niej korzystać - public
+∙ czy jest metodą statyczną czy nie-statyczną - public static
+∙ czy i jakiego typu rezultat dostarcza (np. int, całkowitego) - public static void
+∙ jaką ma nazwę i jakie jest je przeznaczenie (np. divide, wykonuje dzielenie) - public static void main
+∙ jakiego typu są jej parametry (np. int, int, oba typu całkowitego) - public static void main (String[] args)
+∙ czy wysyła wyjątki (np. throws ArithmeticException)
+
+Ciałem metody jest blok ujęty w nawiasy klamrowe.
+Ciało metody:
+∙ może zawierać instrukcje
+∙ w deklaracjach zmiennych nie wolno używać sepecyfikatorów dostępu;
+∙ odwołania do zmiennych definiowanych lokalnie będą poprzedzone przypisaniem
+wartości;
+∙ nie może zawierać definicji metody
+
+public static void fun ( )
+{
+int fix1 = 10, fix2 ;
+	System . out . p r i n t l n ( f i x 1 ) ; // poprawnie
+	System . out . p r i n t l n ( f i x 2 ) ; // nie poprawnie
+}
+
+
+
+			PRZYKŁAD
+
+
+
+Nazwy zadeklarowane w ciele metody są nazwami jej zmiennych lokalnych.
+Nazwa lokalna zadeklarowania w pewnym bloku jest widoczna od miejsca jej
+zadeklarowania, do końca tego bloku.
+Jeśli w bloku zadeklarowano nazwę name, to zabrania się, aby w jakimkolwiek zawartym w nim bloku zadeklarowano taką samą nazwę.
+Nie zabrania się natomiast deklarowania takich samych nazw w rozłącznych blokach.
+
+
+public void fun ( int a ) {
+	------------------int a = 10 ;
+{
+		int b = 20 ;
+{
+			int c = 30 ;
+			------int b =40;
+}
+{
+int c = 50;
+}
+}
+}
+
+
+Wywołanie metody ma na celu wykonanie czynności określonych przez jej ciało oraz
+argumenty.
+Wartości argumentów z wywołania metody są przypisywane do parametrów metody.
+Jeżeli argumentami metody są:
+∙ wyrażenia – to tuż przed wywołaniem metody każde wyrażenie jest opracowane
+od–lewej–do–prawej, a jego wartości przypisuje się parametrowi metody;
+∙ zmienne typów prostych - wówczas wartości przypisuje się parametrowi metody;
+∙ zmienne odnośnikowe/odnośniki – to zmienna obiektowa identyfikowana przez
+przypisane mu odniesienie jest argumentem obiektowym
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
