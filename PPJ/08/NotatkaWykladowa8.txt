@@ -1,0 +1,22 @@
+		PROBLEMY TABLICOWE
+odwołanie do elementu
+∙ wypełnienie tablicy
+∙ wyszukanie zadanego elementu
+∙ usunięcie wskazanego elementu
+∙ wstawienie elementu
+∙ zamiana elementów miejscami
+∙ sortowanie elementów tablicy
+∙ usunięcie indeksu z tablicy
+∙ powiększenie tablicy
+
+		TABLICE WIELOWYMIAROWE
+W fabrykatorze tablicy wielowymiarowej (wielo-poziomowej) musi wystąpić tyle par
+nawiasów kwadratowych ile w deklaracji występuje par nawiasów kwadratowych.
+A zatem jeżeli
+		int[][] arr2D = { {3, 2, 1}, {8, 5, 7}};
+
+
+
+
+
+
