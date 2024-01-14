@@ -1,0 +1,40 @@
+public class Cwiczenie 4 {
+	public static void main (String[] args){
+		byte liczbaByte = 127; // Zakres od -128 do 127
+		short liczbaShort = 32767; // Zakres od -32768 do 32767
+		int liczbaInt = 2147483647; // Zakres od -2147483648 do 2147483647
+		long liczbaLong = 9223372036854775807L; // Zakres od -9223372036854775808 do 9223372036854775807
+		float liczbaFloat = 3.14F; // Przyrostek F oznacza typ float
+		double liczbaDouble = 3.141592653589793D; // Przyrostek D oznacza typ double
+		
+
+        	// Operacje na liczbach całkowitych
+	        int liczbaCalkowita1 = 10;
+        	int liczbaCalkowita2 = 5;
+	        System.out.println("Operacje na liczbach całkowitych:");
+        	System.out.println("10 + 5 = " + (liczbaCalkowita1 + liczbaCalkowita2));
+	        System.out.println("10 - 5 = " + (liczbaCalkowita1 - liczbaCalkowita2));
+	        System.out.println("10 * 5 = " + (liczbaCalkowita1 * liczbaCalkowita2));
+        	System.out.println("10 / 5 = " + (liczbaCalkowita1 / liczbaCalkowita2));
+	        System.out.println("10 % 5 = " + (liczbaCalkowita1 % liczbaCalkowita2));
+
+        	// Operacje na liczbach rzeczywistych
+	        double liczbaRzeczywista1 = 10.5;
+        	double liczbaRzeczywista2 = 5.5;
+	        System.out.println("\nOperacje na liczbach rzeczywistych:");
+        	System.out.println("10.5 + 5.5 = " + (liczbaRzeczywista1 + liczbaRzeczywista2));
+	        System.out.println("10.5 - 5.5 = " + (liczbaRzeczywista1 - liczbaRzeczywista2));
+	        System.out.println("10.5 * 5.5 = " + (liczbaRzeczywista1 * liczbaRzeczywista2));
+        	System.out.println("10.5 / 5.5 = " + (liczbaRzeczywista1 / liczbaRzeczywista2));
+	        System.out.println("10.5 % 5.5 = " + (liczbaRzeczywista1 % liczbaRzeczywista2));
+
+	        // Operacje na znakach
+        	char znak1 = 'A';
+	        char znak2 = 'B';
+	        System.out.println("\nOperacje na znakach:");
+        	System.out.println("'A' + 'B' = " + (znak1 + znak2));
+	        System.out.println("'A' - 'B' = " + (znak1 - znak2));
+        	// Operacje mnożenia, dzielenia i modulo nie mają sensu dla typu char
+		}
+}
+
